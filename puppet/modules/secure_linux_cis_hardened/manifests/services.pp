@@ -1,3 +1,6 @@
+# Created by Joel Garia -> joel.garia93@gmail.com
+# Install required services
+
 class secure_linux_cis_hardened::services (){
   package { 'iptables-services.x86_64':
     ensure => 'installed',
