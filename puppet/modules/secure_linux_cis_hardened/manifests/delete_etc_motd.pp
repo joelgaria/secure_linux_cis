@@ -8,4 +8,3 @@ class secure_linux_cis_hardened::delete_etc_motd (){
         path        => ' :/usr/sbin:/bin:/usr/local/bin',
     }
 }
-   

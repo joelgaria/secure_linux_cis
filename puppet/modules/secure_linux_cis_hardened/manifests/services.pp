@@ -16,4 +16,3 @@ class secure_linux_cis_hardened::services (){
         path        => '/sbin:/usr/bin:/usr/sbin:/bin:/usr/local/bin',
     }
 }
-   

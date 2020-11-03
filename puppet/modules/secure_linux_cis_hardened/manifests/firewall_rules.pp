@@ -11,4 +11,3 @@ class secure_linux_cis_hardened::firewall_rules (){
     tag    => 'cis_firewall_rule'
   }
 }
-   
